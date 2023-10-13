@@ -109,7 +109,7 @@ let kichik = []
 // let t = users.slice('')
 
 for(let i = 0; i < users.length; i++) {
-    if(users[i] <= users) {
+    if(users[0].age[i] >= katta) {
         katta.push(users[i])
     }
 }
